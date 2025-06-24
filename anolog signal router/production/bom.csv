@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"J1, J2, J3, J4",Jack_XLR_Neutrik_NC3MAAH-1_Horizontal,4,XLR3,
+J11,PinHeader_1x12_P2.54mm_Vertical,1,PINHD_1x12_Male,
+J5,Jack_XLR_Neutrik_NC3FAH1-DA_Horizontal,1,XLR IN4,
+J6,Jack_XLR_Neutrik_NC3FAH1-DA_Horizontal,1,XLR IN3,
+J7,Jack_XLR_Neutrik_NC3FAH1-DA_Horizontal,1,XLR IN2,
+J8,Jack_XLR_Neutrik_NC3FAH1-DA_Horizontal,1,XLR IN1,
+J9,PinHeader_1x02_P2.54mm_Vertical,1,PINHD_1x2_Male,
+"U1, U2, U3, U4",Texas_RGY_R-PVQFN-N16_EP2.05x2.55mm,4,TS3A5017RGY,
